@@ -1,0 +1,13 @@
+archivo,filas_originales,filas_validas,filas_invalidas,errores_detectados,tiempo_validacion_s,estado_validacion
+yellow_tripdata_2018-01_sucio_12_hilos.csv,8760687,7880763,879924,880245,37.952699,OK
+yellow_tripdata_2018-02_sucio_12_hilos.csv,8492819,7639591,853228,853584,36.814247,OK
+yellow_tripdata_2018-03_sucio_12_hilos.csv,9431289,8483404,947885,948279,42.642859,OK
+yellow_tripdata_2018-04_sucio_12_hilos.csv,9306216,8371135,935081,935483,38.740062,OK
+yellow_tripdata_2018-05_sucio_12_hilos.csv,9224788,8297600,927188,927573,39.973538,OK
+yellow_tripdata_2018-06_sucio_12_hilos.csv,8714667,7838044,876623,877070,37.048661,OK
+yellow_tripdata_2018-07_sucio_12_hilos.csv,7851143,7060277,790866,791346,32.760506,OK
+yellow_tripdata_2018-08_sucio_12_hilos.csv,7855040,7059512,795528,796367,34.164559,OK
+yellow_tripdata_2018-09_sucio_12_hilos.csv,8049094,7231329,817765,818843,41.845957,OK
+yellow_tripdata_2018-10_sucio_12_hilos.csv,8834520,7933941,900579,902065,51.584909,OK
+yellow_tripdata_2018-11_sucio_12_hilos.csv,8155449,7325284,830165,831416,42.930392,OK
+yellow_tripdata_2018-12_sucio_12_hilos.csv,8195675,7349674,846001,848234,55.653581,OK
